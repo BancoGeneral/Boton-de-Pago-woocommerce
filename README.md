@@ -1,1 +1,0 @@
-# Boton-de-Pago-woocommerce
